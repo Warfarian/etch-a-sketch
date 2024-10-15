@@ -1,2 +1,2 @@
 # etch-a-sketch
-Etch a sketch project for TOP
+A Etch a sketch practice project for TOP
